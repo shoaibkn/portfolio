@@ -163,7 +163,7 @@ export const DATA = {
         // },
         {
           type: "Archived Source",
-          href: "https://streamline.lumin8.in",
+          href: "https://github.com/shoaibkn/streamline-archive",
           icon: <Icons.github className="size-3" />,
         },
       ],
