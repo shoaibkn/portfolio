@@ -6,11 +6,11 @@ export const DATA = {
   initials: "SK",
   url: "https://lumin8.in",
   location: "Agra, India",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "https://www.google.com/maps/place/agra",
   description: "",
   summary:
     "Full Stack Developer with 4 years of experience in Full Stack development  and 3 Years experience in Database Administration, Ecommerce and Digital marketing. Experienced in designing custom Software solutions for brands and businesses",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpeg",
   skills: [
     "React",
     "Next.js",
