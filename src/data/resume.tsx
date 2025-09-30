@@ -7,9 +7,10 @@ export const DATA = {
   url: "https://lumin8.in",
   location: "Agra, India",
   locationLink: "https://www.google.com/maps/place/agra",
-  description: "",
+  description:
+    "Creative professional with 7+ years of experience in software development and IT and Data administration. Skilled in designing custom software solutions for businesses.",
   summary:
-    "Full Stack Developer with 4 years of experience in Full Stack development  and 3 Years experience in Database Administration, Ecommerce and Digital marketing. Experienced in designing custom Software solutions for brands and businesses",
+    "Technology enthusiast with a strong background in IT systems, ERP integration, and workflow automation, seeking to contribute to manufacturing or industrial organizations by modernizing and optimizing their technical infrastructure. Passionate about building practical, scalable solutions that improve operational efficiency, data accuracy, and cross-functional collaboration.",
   avatarUrl: "/me.jpeg",
   skills: [
     "React",
@@ -49,7 +50,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/shoaibkn/",
+        url: "https://www.linkedin.com/in/shoaib-khan-313323167",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -155,11 +156,11 @@ export const DATA = {
         "Shadcn UI",
       ],
       links: [
-        {
-          type: "Website",
-          href: "https://streamline.lumin8.in",
-          icon: <Icons.globe className="size-3" />,
-        },
+        // {
+        //   type: "Website",
+        //   href: "https://streamline.lumin8.in",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
         {
           type: "Archived Source",
           href: "https://streamline.lumin8.in",
@@ -191,11 +192,11 @@ export const DATA = {
         "11Labs",
       ],
       links: [
-        {
-          type: "Website",
-          href: "https://monolit.lumin8.in",
-          icon: <Icons.globe className="size-3" />,
-        },
+        // {
+        //   type: "Website",
+        //   href: "https://monolit.lumin8.in",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
         {
           type: "Source",
           href: "https://github.com/shoaibkn/monolit",
@@ -223,11 +224,11 @@ export const DATA = {
         "OpenAI",
       ],
       links: [
-        {
-          type: "Website",
-          href: "https://lftd.lumin8.in",
-          icon: <Icons.globe className="size-3" />,
-        },
+        // {
+        //   type: "Website",
+        //   href: "https://lftd.lumin8.in",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
         {
           type: "Source",
           href: "https://github.com/shoaibkn/lftd",
@@ -256,11 +257,11 @@ export const DATA = {
         "Cloudflare Workers",
       ],
       links: [
-        {
-          type: "Website",
-          href: "https://blabber.lumin8.in",
-          icon: <Icons.globe className="size-3" />,
-        },
+        // {
+        //   type: "Website",
+        //   href: "https://blabber.lumin8.in",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
         {
           type: "Source",
           href: "https://github.com/shoaibkn/blabber-social",
