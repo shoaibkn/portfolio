@@ -71,7 +71,7 @@ export const DATA = {
       href: "https://vrdexports.in",
       badges: [],
       location: "On Site",
-      title: "IT and Full Stack Developer",
+      title: "IT Head and Full Stack Developer",
       logoUrl: "/vrd.png",
       start: "April 2021",
       end: "Present",
