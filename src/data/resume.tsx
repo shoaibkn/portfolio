@@ -35,7 +35,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "lumin8.in", icon: GlobeIcon, label: "Website" },
+    { href: "https://lumin8.in", icon: GlobeIcon, label: "Website" },
   ],
   contact: {
     email: "shoaibkn66@gmail.com",
