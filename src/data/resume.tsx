@@ -95,15 +95,15 @@ export const DATA = {
     {
       school: "Indira Gandhi National Open University",
       href: "https://www.ignou.ac.in",
-      degree: "Master's Degree in Computer Applications (BCA)",
+      degree: "Master's Degree in Computer Applications (MCA)",
       logoUrl: "/ignou.webp",
-      start: "2025",
+      start: "2024",
       end: "Pursuing",
     },
     {
       school: "Indira Gandhi National Open University",
       href: "https://www.ignou.ac.in",
-      degree: "Bachelor's Degree in Computer Applications (BCS)",
+      degree: "Bachelor's Degree in Computer Applications (BCA)",
       logoUrl: "/ignou.webp",
       start: "2021",
       end: "2024",
